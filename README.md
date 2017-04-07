@@ -13,7 +13,7 @@ The application of science-based mathematical models to decisions about saving, 
 and managing risk.
 ```
 
-<img src="https://previews.123rf.com/images/radiantskies/radiantskies1212/radiantskies121201630/16719564-Abstract-word-cloud-for-Financial-engineering-with-related-tags-and-terms-Stock-Photo.jpg" alt="hi" class="inline"/>
+<img src="https://previews.123rf.com/images/radiantskies/radiantskies1212/radiantskies121201630/16719564-Abstract-word-cloud-for-Financial-engineering-with-related-tags-and-terms-Stock-Photo.jpg", width=400/>
 
 You can use the [editor on GitHub](https://github.com/weiyialanchen/nuts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
