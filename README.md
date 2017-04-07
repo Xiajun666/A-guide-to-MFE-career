@@ -9,16 +9,26 @@
 ## What is Financial Engineering?
 
 ```markdown
-The application of science-based mathematical models to decisions about saving, investing, borrowing, lending, 
-and managing risk.
+The application of science-based mathematical models to decisions about saving, investing, borrowing, 
+lending, and managing risk.
 ```
 
 <img src="https://previews.123rf.com/images/radiantskies/radiantskies1212/radiantskies121201630/16719564-Abstract-word-cloud-for-Financial-engineering-with-related-tags-and-terms-Stock-Photo.jpg" width="400"/>
 <img src="http://thompsonenterprisesltd.com/wp-content/uploads/2015/03/Thompson_Engineering_Decision_and_Financial_Engineering_Group.jpg" width="400">
 
-You can use the [editor on GitHub](https://github.com/weiyialanchen/nuts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Financial engineering is applicable to 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. derivatives pricing
+
+<img src="http://i.investopedia.com/inv/dictionary/terms/optvalue_0606.gif">
+
+2. financial regulation
+3. execution
+4. corporate finance
+5. portfolio management
+6. risk management
+7. trading
+8. structured products.
 
 ### Markdown
 
