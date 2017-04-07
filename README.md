@@ -37,7 +37,12 @@ Financial engineering is applicable to
 <img src="http://www.ulalocapital.com/wp-content/uploads/2015/12/corporate-finance-finalxz.jpg">
 
 - portfolio management
+
+[Portfolio Optimizer] (https://www.portfoliovisualizer.com/optimize-portfolio#analysisResults)
+
 - risk management
+
+
 - trading
 - structured products.
 
