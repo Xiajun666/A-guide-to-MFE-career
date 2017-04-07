@@ -25,8 +25,8 @@ Financial engineering is applicable to
 
 2. financial regulation
 
-<img src="http://harvardpolitics.com/blog/wp-content/uploads/2009/12/0-cover.jpg" width=400>
-<img src="http://www.biia.net/wp-content/uploads/2010/12/010-Media-Regulations-in-China.jpg" width=400>
+<img src="http://harvardpolitics.com/blog/wp-content/uploads/2009/12/0-cover.jpg" width="400">
+<img src="http://www.biia.net/wp-content/uploads/2010/12/010-Media-Regulations-in-China.jpg" width="400">
 
 3. execution
 4. corporate finance
