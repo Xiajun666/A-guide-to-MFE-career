@@ -36,19 +36,17 @@ Financial engineering is applicable to
 
 <img src="http://www.ulalocapital.com/wp-content/uploads/2015/12/corporate-finance-finalxz.jpg" width="800">
 
-- portfolio management
+- portfolio management ([Portfolio Visualizer Link](https://www.portfoliovisualizer.com/optimize-portfolio#analysisResults))
 
-[Portfolio Visualizer Link](https://www.portfoliovisualizer.com/optimize-portfolio#analysisResults)
-
-- risk management
-
-[Quantopian Risk Metrics](https://www.quantopian.com/posts/stocks-on-the-move-by-andreas-clenow)
+- risk management ([Quantopian Risk Metrics](https://www.quantopian.com/posts/stocks-on-the-move-by-andreas-clenow))
 
 - trading
 
 <img src="https://www.etnasoft.com/wp-content/uploads/2012/12/Front-Office.png" width="800">
 
 - structured products.
+
+<img src="https://www.citibank.com.au/aus/images/investment/understanding-structured-products.png" width="800">
 
 ### Markdown
 
