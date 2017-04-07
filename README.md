@@ -6,7 +6,7 @@
 - Employer: Merrill Lynch
 - Contacts: weiyi.alan.chen@gmail.com, chenweiyi662109
 
-## What is Financial Engineering?
+### What is Financial Engineering?
 
 ```markdown
 The application of science-based mathematical models to decisions about saving, investing, borrowing, 
@@ -18,33 +18,35 @@ lending, and managing risk.
 
 Financial engineering is applicable to 
 
-- derivatives pricing
+#### derivatives pricing
 
 <img src="http://i.investopedia.com/inv/dictionary/terms/optvalue_0606.gif">
 <img src="https://static1.squarespace.com/static/5371c4c9e4b0cb63d6f51baf/t/537f7b00e4b00c859fe19c2d/1400863498603/">
 
-- financial regulation
+#### financial regulation
 
 <img src="http://harvardpolitics.com/blog/wp-content/uploads/2009/12/0-cover.jpg" width="400">
 <img src="http://www.biia.net/wp-content/uploads/2010/12/010-Media-Regulations-in-China.jpg" width="400">
 
-- execution
+#### execution
 
 <img src="http://www.esignal.com/medias/2015/10/options-analytix-beauty.png" width="800">
 
-- corporate finance
+#### corporate finance
 
 <img src="http://www.ulalocapital.com/wp-content/uploads/2015/12/corporate-finance-finalxz.jpg" width="800">
 
-- portfolio management ([Portfolio Visualizer Link](https://www.portfoliovisualizer.com/optimize-portfolio#analysisResults))
+#### portfolio management 
+([Portfolio Visualizer Link](https://www.portfoliovisualizer.com/optimize-portfolio#analysisResults))
 
-- risk management ([Quantopian Risk Metrics](https://www.quantopian.com/posts/stocks-on-the-move-by-andreas-clenow))
+#### risk management 
+([Quantopian Risk Metrics](https://www.quantopian.com/posts/stocks-on-the-move-by-andreas-clenow))
 
-- trading
+#### trading
 
 <img src="https://www.etnasoft.com/wp-content/uploads/2012/12/Front-Office.png" width="800">
 
-- structured products.
+#### structured products.
 
 <img src="https://www.citibank.com.au/aus/images/investment/understanding-structured-products.png" width="800">
 
