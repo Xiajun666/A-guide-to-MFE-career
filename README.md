@@ -30,20 +30,24 @@ Financial engineering is applicable to
 
 - execution
 
-<img src="http://www.esignal.com/medias/2015/10/options-analytix-beauty.png">
+<img src="http://www.esignal.com/medias/2015/10/options-analytix-beauty.png" width="400">
 
 - corporate finance
 
-<img src="http://www.ulalocapital.com/wp-content/uploads/2015/12/corporate-finance-finalxz.jpg">
+<img src="http://www.ulalocapital.com/wp-content/uploads/2015/12/corporate-finance-finalxz.jpg" width="400">
 
 - portfolio management
 
-[Portfolio Optimizer] (https://www.portfoliovisualizer.com/optimize-portfolio#analysisResults)
+[Portfolio Visualizer Link](https://www.portfoliovisualizer.com/optimize-portfolio#analysisResults)
 
 - risk management
 
+[Quantopian Risk Metrics](https://www.quantopian.com/posts/stocks-on-the-move-by-andreas-clenow)
 
 - trading
+
+<img src="https://www.etnasoft.com/wp-content/uploads/2012/12/Front-Office.png" width="400">
+
 - structured products.
 
 ### Markdown
