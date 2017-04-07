@@ -29,6 +29,9 @@ Financial engineering is applicable to
 <img src="http://www.biia.net/wp-content/uploads/2010/12/010-Media-Regulations-in-China.jpg" width="400">
 
 3. execution
+
+<img src="http://www.esignal.com/medias/2015/10/options-analytix-beauty.png">
+
 4. corporate finance
 5. portfolio management
 6. risk management
