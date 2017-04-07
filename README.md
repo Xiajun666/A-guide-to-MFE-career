@@ -33,6 +33,9 @@ Financial engineering is applicable to
 <img src="http://www.esignal.com/medias/2015/10/options-analytix-beauty.png">
 
 - corporate finance
+
+<img src="http://www.ulalocapital.com/wp-content/uploads/2015/12/corporate-finance-finalxz.jpg">
+
 - portfolio management
 - risk management
 - trading
