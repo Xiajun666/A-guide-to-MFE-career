@@ -18,25 +18,25 @@ lending, and managing risk.
 
 Financial engineering is applicable to 
 
-1. derivatives pricing
+- derivatives pricing
 
 <img src="http://i.investopedia.com/inv/dictionary/terms/optvalue_0606.gif">
 <img src="https://static1.squarespace.com/static/5371c4c9e4b0cb63d6f51baf/t/537f7b00e4b00c859fe19c2d/1400863498603/">
 
-2. financial regulation
+- financial regulation
 
 <img src="http://harvardpolitics.com/blog/wp-content/uploads/2009/12/0-cover.jpg" width="400">
 <img src="http://www.biia.net/wp-content/uploads/2010/12/010-Media-Regulations-in-China.jpg" width="400">
 
-3. execution
+- execution
 
 <img src="http://www.esignal.com/medias/2015/10/options-analytix-beauty.png">
 
-4. corporate finance
-5. portfolio management
-6. risk management
-7. trading
-8. structured products.
+- corporate finance
+- portfolio management
+- risk management
+- trading
+- structured products.
 
 ### Markdown
 
