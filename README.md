@@ -1,4 +1,16 @@
+### About myself
+
+- Preparer: Chen, Weiyi
+- Bachelor: Tsinghua Univ, CS
+- Master: Baruch College, FE
+- Employer: Merrill Lynch
+- Contacts: weiyi.alan.chen@gmail.com, chenweiyi662109
+
 ## What is Financial Engineering?
+
+```
+The application of science-based mathematical models to decisions about saving, investing, borrowing, lending, and  managing risk.
+```
 
 <img src="https://previews.123rf.com/images/radiantskies/radiantskies1212/radiantskies121201630/16719564-Abstract-word-cloud-for-Financial-engineering-with-related-tags-and-terms-Stock-Photo.jpg" alt="hi" class="inline"/>
 
