@@ -13,16 +13,19 @@ The application of science-based mathematical models to decisions about saving, 
 lending, and managing risk.
 ```
 
-<img src="https://previews.123rf.com/images/radiantskies/radiantskies1212/radiantskies121201630/16719564-Abstract-word-cloud-for-Financial-engineering-with-related-tags-and-terms-Stock-Photo.jpg" width="400" align="middle">
-<img src="http://thompsonenterprisesltd.com/wp-content/uploads/2015/03/Thompson_Engineering_Decision_and_Financial_Engineering_Group.jpg" width="400" align="middle">
+<img src="https://previews.123rf.com/images/radiantskies/radiantskies1212/radiantskies121201630/16719564-Abstract-word-cloud-for-Financial-engineering-with-related-tags-and-terms-Stock-Photo.jpg" width="400">
+<img src="http://thompsonenterprisesltd.com/wp-content/uploads/2015/03/Thompson_Engineering_Decision_and_Financial_Engineering_Group.jpg" width="400">
 
 Financial engineering is applicable to 
 
 1. derivatives pricing
 
-<img src="http://i.investopedia.com/inv/dictionary/terms/optvalue_0606.gif" align="middle">
+<img src="http://i.investopedia.com/inv/dictionary/terms/optvalue_0606.gif">
+<img src="https://static1.squarespace.com/static/5371c4c9e4b0cb63d6f51baf/t/537f7b00e4b00c859fe19c2d/1400863498603/">
 
 2. financial regulation
+
+
 3. execution
 4. corporate finance
 5. portfolio management
