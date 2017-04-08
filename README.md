@@ -135,7 +135,7 @@ Finance and economics aren’t that important in quantitative trading, other tha
 
 - In gender ratio, 21% and 79% are the figures of female and male financial engineers.
 
-<img src="http://www.financewalk.com/wp-content/uploads/2015/02/Gender-and-Experience.png" width="400">
+![Gender And Experience](http://www.financewalk.com/wp-content/uploads/2015/02/Gender-and-Experience.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
