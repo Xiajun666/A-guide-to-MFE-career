@@ -123,15 +123,19 @@ The level of competition is high for entry-level quants as they need to display 
 
 Finance and economics aren’t that important in quantitative trading, other than giving the professional a well-developed approach towards the finance markets. 
 
-### 5. Job Market
+### 5. Job Market 
 
-Financial Engineering in USA
-
-The median salary of financial engineers in USA is 91,330 USD.
+- The median salary of financial engineers in USA is 91,330 USD.
 
 <img src="http://www.financewalk.com/wp-content/uploads/2015/02/Salary-Range.png" width="800">
 
+- The data below shows how experience impacts the salary scale of financial engineers.
 
+<img src="http://www.financewalk.com/wp-content/uploads/2015/02/Experience.png" width="800">
+
+- In gender ratio, 21% and 79% are the figures of female and male financial engineers.
+
+<img src="http://www.financewalk.com/wp-content/uploads/2015/02/Gender-and-Experience.png" width="800">
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
