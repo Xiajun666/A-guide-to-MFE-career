@@ -127,11 +127,11 @@ Finance and economics aren’t that important in quantitative trading, other tha
 
 - The median salary of financial engineers in USA is 91,330 USD.
 
-<img src="http://www.financewalk.com/wp-content/uploads/2015/02/Salary-Range.png" width="800">
+![Salary Range]["http://www.financewalk.com/wp-content/uploads/2015/02/Salary-Range.png"]
 
 - The data below shows how experience impacts the salary scale of financial engineers.
 
-<img src="http://www.financewalk.com/wp-content/uploads/2015/02/Experience.png" width="400">
+![Experience Scale](src="http://www.financewalk.com/wp-content/uploads/2015/02/Experience.png")
 
 - In gender ratio, 21% and 79% are the figures of female and male financial engineers.
 
