@@ -4,7 +4,6 @@
 - Preparer: Chen, Weiyi
 - Bachelor: Tsinghua Univ, CS
 - Master: Baruch College, FE
-- Employer: Merrill Lynch
 - Contacts: weiyi.alan.chen@gmail.com, chenweiyi662109
 ```
 
@@ -209,4 +208,5 @@ Third type: star C/C++ developer who understands Unix network programming, low-l
 - Skills: Unix network programming, distributed systems, Linux systems, parallel/threads programming
 - Package: $300+k
 
+![Trader](../Trader.png)
 
