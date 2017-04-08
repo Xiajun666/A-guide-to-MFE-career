@@ -156,3 +156,57 @@ Finance and economics aren’t that important in quantitative trading, other tha
 - In gender ratio, 21% and 79% are the figures of female and male financial engineers.
 
 ![Gender And Experience](http://www.financewalk.com/wp-content/uploads/2015/02/Gender-and-Experience.png)
+
+### 6. Quant Types
+
+Quantitative positions within finance can be broadly categorised into four main types. 
+
+#### 6.1 Quantitative Trader
+
+- Employer: a bank (prop trading desk), a quantitative/systematic hedge fund
+- Responsibility: alpha, the elusive returns above those returned as a component of standard stock market fluctuations
+- Skills: statistical or machine-learning
+- Package: $200K
+
+#### 6.2 Quantitative Researcher
+
+- Employer: a bank (research desk, middle-office), alternative research firms, some larger hedge funds
+- Skills: a pure mathematician or PhD in stochastic calculus
+- Package: $180k (associate)
+
+#### 6.3 Desk Quants
+
+Tasked with taking a product (FICC, Equity), often sold by sales teams to clients within large banks, and figuring out how to correctly price it. Business:
+
+1. Foreign Exchange
+2. Interest rate
+3. Commodity
+4. Credit
+5. Equity
+6. Mortgage
+
+- Employer: bank (market making desks, front-office)
+- Skills: stochastic calculus, risk-neutral pricing, strong/fast programming
+- Package: $120k (analyst) $180k (associate)
+
+#### 6.4 Quantitative Developer
+
+First type: work closely with desk quantits to implement and optimise their financial models, taking a prototype code from R or Python and rewriting it in another language such as C++ or Java
+
+- Employer: bank (market making desks, front-office)
+- Skills: programming
+- Package: base similar to quants, bonus less
+
+Second type: deal with financial pricing data and trading systems architecture, code up the raw infrastructure allowing the quant analysts/traders to run their models on and make money
+
+- Employer: bank (middle-office), fund
+- Skills: programming, large-scale legacy systems
+- Package: eh..
+
+Third type: star C/C++ developer who understands Unix network programming, low-latency systems and the ins and outs of the Linux Kernal
+
+- Employer: Ultra High-Frequency Trading (UHFT)
+- Skills: Unix network programming, distributed systems, Linux systems, parallel/threads programming
+- Package: $300+k
+
+
