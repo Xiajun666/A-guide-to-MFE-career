@@ -114,6 +114,24 @@ The level of competition is high for entry-level quants as they need to display 
 - .NET
 - Perl
 
+```python
+def initialize(context):
+    context.security = symbol('AAPL')
+    schedule_function(myfunc, date_rules.every_day(),  time_rules.market_open(minutes = 15))
+
+def handle_data(context, data):
+    MovingAvg1 = data[context.security].mavg(10)
+    MovingAvg2 = data[context.security].mavg(30)
+    
+    current_positions = context.portfolio.positions[symbol('AAPL')].amount
+    
+    if (MovingAvg1 > MovingAvg2) and current_positions == 0:
+        order_target_percent(context.security, 0.25)
+            
+    elif (MovingAvg1 < MovingAvg2) and current_positions != 0:
+        order_target(context.security, 0)
+```
+
 #### 4.3 Mathematics
 
 - linear algebra
