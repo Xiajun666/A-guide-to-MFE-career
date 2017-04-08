@@ -167,11 +167,15 @@ Quantitative positions within finance can be broadly categorised into four main 
 - Skills: statistical or machine-learning
 - Package: $200K
 
+![Trader](./Trader.png)
+
 #### 6.2 Quantitative Researcher
 
 - Employer: a bank (research desk, middle-office), alternative research firms, some larger hedge funds
 - Skills: a pure mathematician or PhD in stochastic calculus
 - Package: $180k (associate)
+
+![Trader](./Analyst.png)
 
 #### 6.3 Desk Quants
 
@@ -187,6 +191,8 @@ Tasked with taking a product (FICC, Equity), often sold by sales teams to client
 - Employer: bank (market making desks, front-office)
 - Skills: stochastic calculus, risk-neutral pricing, strong/fast programming
 - Package: $120k (analyst) $180k (associate)
+
+![Trader](./Researcher.png)
 
 #### 6.4 Quantitative Developer
 
@@ -208,5 +214,5 @@ Third type: star C/C++ developer who understands Unix network programming, low-l
 - Skills: Unix network programming, distributed systems, Linux systems, parallel/threads programming
 - Package: $300+k
 
-![Trader](../Trader.png)
+![Trader](./Developer.png)
 
