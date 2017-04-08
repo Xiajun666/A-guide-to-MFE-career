@@ -131,11 +131,11 @@ Finance and economics aren’t that important in quantitative trading, other tha
 
 - The data below shows how experience impacts the salary scale of financial engineers.
 
-<img src="http://www.financewalk.com/wp-content/uploads/2015/02/Experience.png" width="800">
+<img src="http://www.financewalk.com/wp-content/uploads/2015/02/Experience.png" width="400">
 
 - In gender ratio, 21% and 79% are the figures of female and male financial engineers.
 
-<img src="http://www.financewalk.com/wp-content/uploads/2015/02/Gender-and-Experience.png" width="800">
+<img src="http://www.financewalk.com/wp-content/uploads/2015/02/Gender-and-Experience.png" width="400">
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
