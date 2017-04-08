@@ -10,8 +10,10 @@
 
 "The application of science-based mathematical models to decisions about saving, investing, borrowing, lending, and managing risk."
 
+```markdown
 <img src="https://previews.123rf.com/images/radiantskies/radiantskies1212/radiantskies121201630/16719564-Abstract-word-cloud-for-Financial-engineering-with-related-tags-and-terms-Stock-Photo.jpg" width="400">
 <img src="http://thompsonenterprisesltd.com/wp-content/uploads/2015/03/Thompson_Engineering_Decision_and_Financial_Engineering_Group.jpg" width="400">
+```
 
 Financial engineering is applicable to -
 
