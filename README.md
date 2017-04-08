@@ -129,7 +129,7 @@ Financial Engineering in USA
 
 The median salary of financial engineers in USA is 91,330 USD.
 
-<img src="http://www.financewalk.com/wp-content/uploads/2015/02/Salary-Range.png" width="400">
+<img src="http://www.financewalk.com/wp-content/uploads/2015/02/Salary-Range.png" width="800">
 
 
 
