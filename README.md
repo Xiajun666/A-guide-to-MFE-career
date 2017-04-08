@@ -59,8 +59,8 @@ Companies often employ people with advanced degree in Financial Engineering and 
 
 The primary responsibility of a financial engineer is to have thorough knowledge of financial markets, its volatility and knowledge of financial theories. This knowledge is used by engineers to develop simulations and predict market behaviour.
 
-<img src="https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/23316/versions/2/screenshot.jpg" width=400>
-<img src="https://s-media-cache-ak0.pinimg.com/originals/69/b6/d6/69b6d6e998ba9f30cff1950859234446.png" width=400>
+![Vol Surface](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/23316/versions/2/screenshot.jpg)
+![Monte Carlo](https://s-media-cache-ak0.pinimg.com/originals/69/b6/d6/69b6d6e998ba9f30cff1950859234446.png)
 
 Apart from knowledge in finance, the engineer needs to possess sufficient computer programming skills. Programming skills are needed to build simulating financial models to learn about market behavior.
 
@@ -127,11 +127,11 @@ Finance and economics aren’t that important in quantitative trading, other tha
 
 - The median salary of financial engineers in USA is 91,330 USD.
 
-![Salary Range]["http://www.financewalk.com/wp-content/uploads/2015/02/Salary-Range.png"]
+![Salary Range](http://www.financewalk.com/wp-content/uploads/2015/02/Salary-Range.png)
 
 - The data below shows how experience impacts the salary scale of financial engineers.
 
-![Experience Scale](src="http://www.financewalk.com/wp-content/uploads/2015/02/Experience.png")
+![Experience Scale](http://www.financewalk.com/wp-content/uploads/2015/02/Experience.png)
 
 - In gender ratio, 21% and 79% are the figures of female and male financial engineers.
 
