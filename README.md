@@ -175,7 +175,7 @@ Quantitative positions within finance can be broadly categorised into four main 
 - Skills: a pure mathematician or PhD in stochastic calculus
 - Package: $180k (associate)
 
-![Trader](./Analyst.png)
+![Trader](./Researcher.png)
 
 #### 6.3 Desk Quants
 
@@ -192,7 +192,7 @@ Tasked with taking a product (FICC, Equity), often sold by sales teams to client
 - Skills: stochastic calculus, risk-neutral pricing, strong/fast programming
 - Package: $120k (analyst) $180k (associate)
 
-![Trader](./Researcher.png)
+![Trader](./Analyst.png)
 
 #### 6.4 Quantitative Developer
 
